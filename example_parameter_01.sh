@@ -8,3 +8,6 @@ command2=$2
 
 echo "$1"
 echo "$2"
+
+echo "$command1"
+echo "$command2"
